@@ -1,6 +1,6 @@
 <?php
 
-$host = "localhost";
+$host = "imtiyajahamad.github.io";
 $login = "root";
 $password = "";
 $db = "imtiyaj_ahamad_e-learning";
